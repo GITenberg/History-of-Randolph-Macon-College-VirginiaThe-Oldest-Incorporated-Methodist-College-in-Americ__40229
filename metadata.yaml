@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40499'
     url: http://www.gutenberg.org/2009/agents/40499
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40229#History-of-Randolph-Macon-College-VirginiaThe-Oldest-Incorporated-Methodist-College-in-Americ_
 gutenberg_issued: '2012-07-14'
 gutenberg_type: Text
 identifiers:
