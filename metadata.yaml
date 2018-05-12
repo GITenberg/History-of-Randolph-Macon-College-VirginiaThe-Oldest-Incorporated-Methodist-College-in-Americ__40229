@@ -1,0 +1,29 @@
+_repo: History-of-Randolph-Macon-College-VirginiaThe-Oldest-Incorporated-Methodist-College-in-Americ__40229
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Irby, Richard
+    birthdate: 1825
+    deathdate: 1902
+    gutenberg_agent_id: '40499'
+    url: http://www.gutenberg.org/2009/agents/40499
+description: ''
+gutenberg_issued: '2012-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Randolph-Macon Woman''s College'
+- !lcc 'LD'
+- !lcsh 'Randolph-Macon College'
+title: 'History of Randolph-Macon College, Virginia
+
+  The Oldest Incorporated Methodist College in America'
+url: http://www.gutenberg.org/ebooks/40229
